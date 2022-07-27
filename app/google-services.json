@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509179093563",
+    "project_id": "cyber-meet-99888",
+    "storage_bucket": "cyber-meet-99888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509179093563:android:15788153570938e5c6321e",
+        "android_client_info": {
+          "package_name": "com.example.cybermeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509179093563-gfjmkidq9l9dn05vaahvj939pi65mig3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZLlnKURLL5vsm8xiTeNfpXirE4gnKKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509179093563-gfjmkidq9l9dn05vaahvj939pi65mig3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
